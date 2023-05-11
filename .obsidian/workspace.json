@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "670a4a300e4d5ec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9e6ee671e0a712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7024cff2f89d737f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9e5c191c49623d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e7041fc0893f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44ca23b2ed1d4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99345a1f30194a57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0868b687004469ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dcacfa918dccda7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66a71275edcba37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c331d6e8370c091b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac21c4a27f1c0439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "172743a86ed802f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dfc326d3ff2b6b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e0c8c243e477ac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c9e5c191c49623d1",
+  "lastOpenFiles": [
+    "🔥账号购买.md",
+    "Pasted image 20230512051945.png",
+    "Pasted image 20230512051934.png",
+    "img/Pasted image 20230512051818.png",
+    "img/Pasted image 20230512051919.png",
+    "未命名.md",
+    "img",
+    "README.md"
+  ]
+}
