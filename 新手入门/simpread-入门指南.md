@@ -1,4 +1,6 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.yuque.com](https://www.yuque.com/gptcn/gpt/bq0ygp7rww10pmhu) 前言 ChatGPT是什么？  
+原文地址 [www.yuque.com](https://www.yuque.com/gptcn/gpt/bq0ygp7rww10pmhu) 
+
+## 前言 ChatGPT是什么？  
 ChatGPT是一个基于GPT-3.5架构的大型语言模型，由OpenAI开发。GPT代表"Generative Pre-trained Transformer"，这是一种使用深度学习技术（特别是变压器网络）预训练的自然语言处理模型。  
 ChatGPT的目的是为用户提供智能的对话和问答服务。它可以根据用户提供的输入生成合理的响应，并尝试理解和解决用户的问题。ChatGPT的训练基于数十亿个文本数据，包括网站、文章、电子邮件和其他来源的文本数据。通过使用这些数据进行训练，ChatGPT可以自然地处理语言，理解上下文和提供有用的答案和建议。  
 ChatGPT在许多领域具有广泛的应用，包括虚拟助手、智能客服、自动翻译、智能搜索等。它还可以用于自然语言处理的各种任务，例如文本分类、命名实体识别、情感分析等。  
