@@ -1,5 +1,5 @@
-## AIGC知识库丨一站式人工智能知识库
-
+# AIGC知识库丨一站式人工智能知识库
+全网曝光超1000万的「AIGC知识库」正式移步Github开源，永久免费更新
 [建议收藏语雀文档地址](https://www.yuque.com/gptcn/gpt)
 ### ✅ 公告
 秉持着公开、分享和进步的理念, 目标是打造一站式人工智能知识库。  
@@ -11,22 +11,14 @@
 
 🎯若需购买账号请看 [🔥账号购买](🔥账号购买.md)
 
-### 新手入门
-[入门指南](./新手入门/simpread-入门指南.md) 什么是ChatGPT？如何使用？
-[使用相关](./新手入门/使用相关.md)
 
-# AGCI知识库
-
-全网曝光超1000万的「AIGC知识库」正式移步Github开源，永久免费更新
-
-![ChatGPT](./pic/chatgpt-head.png)
 
 <div align=center>
 <img src="pic/chatgpt-3.jpg" width="50%" height="50%" div align=center />
 <img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
 </div>   
 
-## 「AI 知识库」 永久免费更新
+## 「AIGC 知识库」 永久免费更新
 目前知识库包括以下内容大纲，覆盖内容如下
 一、🎖️  ChatGPT 系列 
 
@@ -49,18 +41,19 @@
 
 【低门槛社群】「AI 知识库」是永久免费更新的，但老于也开设了一个低门槛的付费社群，其中包含更深入、更高级的内容和服务，扫描下方二维码了可进一步了解。社群每超过 50 人，价格将会上调 ，请知悉。
 
-| 低门槛付费社群(微信扫码) |
-| ----  |
-| <img src="pic/知识星球入口.png" width="200" /> | 
+| 低门槛付费社群(微信扫码)                           |
+|-----------------------------------------|
+| <img src="imgs/zsxq.jpg" width="600" /> | 
 
 # 🤖 ChatGPT 中文指南 🤖
 
-
-[GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/Guyungy/Awesome-ChatGPT-AI-ZH)
+[GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/Guyungy/AIGC-knowbase)
 
 
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
-
+### 新手入门
+[入门指南](./新手入门/simpread-入门指南.md) 什么是ChatGPT？如何使用？
+[使用相关](./新手入门/使用相关.md)
 - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
   - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [使用途径](#使用途径)
